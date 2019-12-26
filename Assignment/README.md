@@ -15,8 +15,8 @@ Non-trainable params: 392
 
 Model Explanation
 ------------------
-Mounted the file in gdrive, unzipped and loaded to dataframe
-One hot encoding was done as this is a multi-class multi-label problem
+- Mounted the file in gdrive, unzipped and loaded to dataframe
+- One hot encoding was done as this is a multi-class multi-label problem
 Data generator class created. 'Persondatagenerator' will feed the images based on batch size on the fly to model while executing model.fit_generator
 Cut-out function 'get_random_eraser' copied from github. Cut-out is a data augmentation technique which we will use in data generator 
 Train_test_split done. Test:Train ratio = 0.15. Gave random_state=42 to avoid data leakage
