@@ -1,4 +1,4 @@
-For 50 epochs (Ran same model one after another - Epochs 1-30, Epochs 31-50, log details saved for each run)
+For 60 epochs (Ran same model one after another - Epochs 1-30, 31-50, 51-60 log details saved for each run)
 -----------------------------------------------------------------------------------------------------------
 - val_gender_output_acc	0.8147 (Epoch 34)
 - val_image_quality_output_acc	0.5794 (Epoch 20)
