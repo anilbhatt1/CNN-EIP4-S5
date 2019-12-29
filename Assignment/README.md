@@ -1,12 +1,12 @@
-For 55 epochs
+For 30 epochs
 -------------
-- val_gender_output_acc	0.8080
-- val_image_quality_output_acc	0.5813
-- val_age_output_acc	0.4018
-- val_weight_output_acc	0.6468
-- val_bag_output_acc	0.6071
-- val_footwear_output_acc	0.6567
-- val_pose_output_acc	0.7857
+- val_gender_output_acc	0.7875
+- val_image_quality_output_acc	0.5794
+- val_age_output_acc	0.4038
+- val_weight_output_acc	0.6473
+- val_bag_output_acc	0.6181
+- val_footwear_output_acc	0.6235
+- val_pose_output_acc	0.7470
 - val_emotion_output_acc	0.7068
 
 - Total params: 1,146,959
