@@ -1,13 +1,13 @@
-For 30 epochs
--------------
-- val_gender_output_acc	0.7875
-- val_image_quality_output_acc	0.5794
-- val_age_output_acc	0.4038
-- val_weight_output_acc	0.6473
-- val_bag_output_acc	0.6181
-- val_footwear_output_acc	0.6235
-- val_pose_output_acc	0.7470
-- val_emotion_output_acc	0.7068
+For 50 epochs (Ran seperately - Epochs 1-30, Epochs 31-50, log details saved along with model for each run)
+-----------------------------------------------------------------------------------------------------------
+- val_gender_output_acc	0.8147 (Epoch 34)
+- val_image_quality_output_acc	0.5794 (Epoch 20)
+- val_age_output_acc	0.4038 (Epoch 20)
+- val_weight_output_acc	0.6473 (Epoch 11)
+- val_bag_output_acc	0.6181 (Epoch 28)
+- val_footwear_output_acc	0.6434 (Epoch 32)
+- val_pose_output_acc	0.7753 (Epoch 49)
+- val_emotion_output_acc	0.7068 (Epoch 50)
 
 - Total params: 1,146,959
 - Trainable params: 1,146,567
